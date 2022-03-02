@@ -31,7 +31,7 @@
 
 ## Videos
 
-+ Basic Movements of <i>Two-Ts</i> Virtual: The video shows the basic movements performed by <i>Two-Ts</i> during the simulation.
++ Basic Movements of Virtual <i>Two-Ts</i>: The video shows the basic movements performed by <i>Two-Ts</i> during the simulation.
 
 <!--[![](https://img.youtube.com/vi/udqf8mTrStc/0.jpg)](https://youtu.be/udqf8mTrStc)-->
 [<img src="https://img.youtube.com/vi/udqf8mTrStc/0.jpg" width="350"/>](https://youtu.be/udqf8mTrStc)
