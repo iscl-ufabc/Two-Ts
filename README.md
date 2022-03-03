@@ -24,10 +24,12 @@ A robotic head has a key role in exchanging information to indicate its emotiona
 <b>a) Basic Moviments:</b> the Two-Ts’ eyes move left and right in the videos, and the eyebrows move up and down. Furthermore, the head movements are left, right, up, down, a small head tilts to left and right, and the partial and complete jaw opening.
 
 + Virtual <i>Two-Ts</i>: 
+
 <!--[![](https://img.youtube.com/vi/udqf8mTrStc/0.jpg)](https://youtu.be/udqf8mTrStc)-->
 [<img src="https://img.youtube.com/vi/udqf8mTrStc/0.jpg" width="350"/>](https://youtu.be/udqf8mTrStc)
 
 + Real <i>Two-Ts</i>: 
+ 
 [<img src="https://img.youtube.com/vi/5K1MpseIagA/0.jpg" width="350"/>](https://youtu.be/5K1MpseIagA)
 
 + Basic and Universal Emotions in <i>Two-Ts</i> Virtual: The video shows the basic and universal emotions reproduced by <i>Two-Ts</i> during the simulation.
