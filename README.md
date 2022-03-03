@@ -35,6 +35,7 @@ The ethics committee of the Federal University of ABC approved the development o
 
 <b>a) CAD-3D:</b> 
 
++ [<b>Computer_Tomography.zip:</b>](https://drive.google.com/file/d/1eS3HS_gSUbsCYnaIydCTiWXGgo-yDcns/view?usp=sharing) computer tomography images to be imported into the [RadiAnt](https://www.radiantviewer.com/en/) software;
 + [<b>Skull_Two-Ts.mix:</b>](https://encurtador.com.br/kuJN8) file created in the Autodesk Meshmixer to manipulate the skull meshes to ensure better CAD-3D quality and accuracy;
 + [<b>Virtual_Two_Ts.f3z:</b>](https://encurtador.com.br/diFGV) the structural/mechanical design of the A Virtual <i>Two-Ts</i> was developed in Autodesk Fusion 360. 
 
