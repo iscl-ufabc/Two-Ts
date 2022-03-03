@@ -37,10 +37,9 @@ A robotic head has a key role in exchanging information to indicate its emotiona
 
 <b>b) Basic Movements and Emotions:</b>
 
-+ BasicMoves_TwoTs.py -> Code implemented for the realization of basic movements in the <i>Two-Ts</i> Real;
-+ Virtual_TwoTs.py -> Code implemented for the realization of basic movements and basic and universal emotions in <i>Two-Ts</i> Virtual;
-+ Expressions_Two_Ts.ipynb -> Code implemented to validate the facial expressions of Tamires, <i>Two-Ts</i> Virtual and Real;
-+ Emotions_TwoTs.py -> Code implemented for the realization of basic and universal emotions in <i>Two-Ts</i> Real;
++ [<b>BasicMovements_Real_TwoTs.py:</b>](https://encurtador.com.br/asxJT) code used in the experiment that showed the basic movements of the Real <i>Two-Ts</i>;
++ [<b>Emotions_Real_TwoTs.py:</b>](https://encurtador.com.br/bvNT6) code used in the experiment that showed the emotions of the Real <i>Two-Ts</i>; 
++ [<b>BasicMovements_Emotions_Virtual_TwoTs.py:</b>](https://encurtador.com.br/jquy3) code used in the simulation that showed the basic moviments and emotions of the Vitual <i>Two-Ts</i>.
 
 <b>c) Google Collaboratory (Colab):</b>
 
