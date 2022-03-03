@@ -9,9 +9,7 @@ A robotic head has a key role in exchanging information to indicate its emotiona
 
 <b>a) CAD-3D:</b> 
 
-+ [CAD Cranio_Two-Ts.mix](https://encurtador.com.br/kuJN8) -> <i>Two-Ts</i> skull CAD-3D.
-+ <b>Skull_Two-Ts.mix:</b> file created in the Autodesk Meshmixer to manipulate the skull meshes to ensure better CAD-3D quality and accuracy.
-
++ [<b>Skull_Two-Ts.mix:</b>](https://encurtador.com.br/kuJN8) file created in the Autodesk Meshmixer to manipulate the skull meshes to ensure better CAD-3D quality and accuracy.
 + [<b>Virtual_Two_Ts.f3z:</b>](https://encurtador.com.br/diFGV) the structural/mechanical design of the A Virtual <i>Two-Ts</i> was developed in Autodesk Fusion 360; 
 
 + Expressions_Two_Ts.ipynb -> Code implemented to validate the facial expressions of Tamires, <i>Two-Ts</i> Virtual and Real;
