@@ -1,9 +1,8 @@
 <h1 align="center"><i>Two-Ts</i> Robotic Head</h1>
 
 ## Description
-
 <p align="justify"> 
-A robotic head has a key role in exchanging information to indicate its emotional state or communicate during an interaction. Therefore, the main target of this work is to present the open-source and low-cost robot head, known as <i>Two-Ts</i>, which is developed using 3D printing technology. Its main feature is to reproduce, even with mechanical limitations, the six basic and universal emotions created according to the Facial Action Coding System (FACS).
+A robotic head has a key role in exchanging information to indicate its emotional state or communicate during an interaction. Therefore, the main target of this work is to present the open-source and low-cost robot head, known as <i>Two-Ts</i>, which is developed using 3D printing technology. Its main feature is to reproduce, even with mechanical limitations, the six basic and universal emotions created according to the Facial Action Coding System (FACS), such as happiness, fear, disgust, anger, surprise, and sadness.
 </p>
   
 ## Files
