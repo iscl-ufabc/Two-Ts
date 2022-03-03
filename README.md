@@ -32,7 +32,7 @@ A robotic head has a key role in exchanging information to indicate its emotiona
  
 [<img src="https://img.youtube.com/vi/5K1MpseIagA/0.jpg" width="350"/>](https://youtu.be/5K1MpseIagA)
 
-<p align="justify"><b>b) Emotions:</b> the <i>Two-Ts</i> performs the emotions of happiness, fear, disgust, anger, surprise, and sadness.</p>
+<p align="justify"><b>b) Emotions:</b> <i>Two-Ts</i> performs the emotions of happiness, fear, disgust, anger, surprise, and sadness.</p>
 
 + <b>Virtual <i>Two-Ts</i>:</b> 
 
