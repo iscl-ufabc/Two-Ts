@@ -7,6 +7,13 @@ A robotic head has a key role in exchanging information to indicate its emotiona
   
 ## Files
 
+<b>a) CAD-3D:</b> 
+
++ [CAD Cranio_Two-Ts.mix](https://encurtador.com.br/kuJN8) -> <i>Two-Ts</i> skull CAD-3D.
++ <b>Skull_Two-Ts.mix:</b> file created on the Autodesk Meshmixer to manipulate the skull meshes to ensure better CAD-3D quality and accuracy.
+
++ <b>Virtual_Two_Ts.f3z:</b> the structural/mechanical design of the A Virtual <i>Two-Ts</i> was developed in Autodesk Fusion 360; 
+
 + Expressions_Two_Ts.ipynb -> Code implemented to validate the facial expressions of Tamires, <i>Two-Ts</i> Virtual and Real;
 
 + BasicMoves_TwoTs.py -> Code implemented for the realization of basic movements in the <i>Two-Ts</i> Real;
@@ -16,8 +23,6 @@ A robotic head has a key role in exchanging information to indicate its emotiona
 + Virtual_TwoTs.py -> Code implemented for the realization of basic movements and basic and universal emotions in <i>Two-Ts</i> Virtual;
 
 + [Two_Ts_Virtual.f3z](https://encurtador.com.br/diFGV) -> CAD-3D by <i>Two-Ts</i>;
-
-+ [CAD Cranio_Two-Ts.mix](https://encurtador.com.br/kuJN8) -> <i>Two-Ts</i> skull CAD-3D.
 
 ## Simulation and Experimental Results
 
