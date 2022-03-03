@@ -32,14 +32,13 @@ A robotic head has a key role in exchanging information to indicate its emotiona
  
 [<img src="https://img.youtube.com/vi/5K1MpseIagA/0.jpg" width="350"/>](https://youtu.be/5K1MpseIagA)
 
-<p align="justify"><b>b) Emotions:</b> 
+<p align="justify"><b>b) Emotions:</b> the <i>Two-Ts</i> performs the emotions of happiness, fear, disgust, anger, surprise, and sadness.</p>
 
-+ Basic and Universal Emotions in <i>Two-Ts</i> Virtual: The video shows the basic and universal emotions reproduced by <i>Two-Ts</i> during the simulation.
++ Virtual <i>Two-Ts</i>: The video shows the basic and universal emotions reproduced by <i>Two-Ts</i> during the simulation.
 
 [<img src="https://img.youtube.com/vi/pIZDx-OqKEg/0.jpg" width="350"/>](https://youtu.be/pIZDx-OqKEg)
 
-
-+ Basic and Universal Emotions in <i>Two-Ts</i> Real: The video shows the basic and universal emotions reproduced by <i>Two-Ts</i> Real.
++ Real <i>Two-Ts</i>: The video shows the basic and universal emotions reproduced by <i>Two-Ts</i> Real.
 
 [<img src="https://img.youtube.com/vi/z0KJ2hzK7wY/0.jpg" width="350"/>](https://www.youtube.com/watch?v=z0KJ2hzK7wY)
 
