@@ -21,24 +21,24 @@ A robotic head has a key role in exchanging information to indicate its emotiona
 
 ## Simulation and Experimental Results
 
-<p align="justify"><b>a) Basic Moviments:</b> the Two-Ts’ eyes move left and right in the videos, and the eyebrows move up and down. Furthermore, the head movements are left, right, up, down, a small head tilts to left and right, and the partial and complete jaw opening.</p>
+<p align="justify"><b>a) Basic Moviments:</b> Two-Ts’ eyes move left and right in the videos, and the eyebrows move up and down. Furthermore, the head movements are left, right, up, down, a small head tilts to left and right, and the partial and complete jaw opening.</p>
 
-+ Virtual <i>Two-Ts</i>: 
++ <b>Virtual <i>Two-Ts</i>:</b> 
 
 <!--[![](https://img.youtube.com/vi/udqf8mTrStc/0.jpg)](https://youtu.be/udqf8mTrStc)-->
 [<img src="https://img.youtube.com/vi/udqf8mTrStc/0.jpg" width="350"/>](https://youtu.be/udqf8mTrStc)
 
-+ Real <i>Two-Ts</i>: 
++ <b>Real <i>Two-Ts</i>:</b> 
  
 [<img src="https://img.youtube.com/vi/5K1MpseIagA/0.jpg" width="350"/>](https://youtu.be/5K1MpseIagA)
 
 <p align="justify"><b>b) Emotions:</b> the <i>Two-Ts</i> performs the emotions of happiness, fear, disgust, anger, surprise, and sadness.</p>
 
-+ Virtual <i>Two-Ts</i>: The video shows the basic and universal emotions reproduced by <i>Two-Ts</i> during the simulation.
++ <b>Virtual <i>Two-Ts</i>:</b> 
 
 [<img src="https://img.youtube.com/vi/pIZDx-OqKEg/0.jpg" width="350"/>](https://youtu.be/pIZDx-OqKEg)
 
-+ Real <i>Two-Ts</i>: The video shows the basic and universal emotions reproduced by <i>Two-Ts</i> Real.
++ <b>Real <i>Two-Ts</i>:</b> 
 
 [<img src="https://img.youtube.com/vi/z0KJ2hzK7wY/0.jpg" width="350"/>](https://www.youtube.com/watch?v=z0KJ2hzK7wY)
 
