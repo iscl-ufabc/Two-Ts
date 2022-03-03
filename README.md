@@ -43,8 +43,5 @@ A robotic head has a key role in exchanging information to indicate its emotiona
 
 [<img src="https://img.youtube.com/vi/z0KJ2hzK7wY/0.jpg" width="350"/>](https://www.youtube.com/watch?v=z0KJ2hzK7wY)
 
-
-
-## Scholarships Received
-+ Technical Training (TT-3) of the PIPE Program of the São Paulo Research Support Foundation, with process number 2019/08079-1, by Startup NTU Software Technology of the PIPE Phase 2 Project (Process Number: 2018/04306-0) from June/2019 to May/2020;
-+ Master's Scholarship from the Coordination for the Improvement of Higher Education Personnel from October/2020 to February/2021.
+## Acknowledgements
+<p align="justify"> This work was supported by a Technical Training Fellowship (TT-3/Process Number: 2019/08079-1) funded by the São Paulo Research Foundation (FAPESP)/PIPE Grant Program from June/2019 to May/2020 offered by the Startup NTU Software Technology (Process Number: 2018/04306-0). In addition, Tamires dos Santos received a master’s scholarship funded by Coordination for the Improvement of Higher Education Personnel (CAPES) from October/2020 to February/2021.</p>
