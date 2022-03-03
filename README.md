@@ -3,16 +3,9 @@
 ## Description
 
 <p align="justify"> 
-  Master's degree in Computer Science at Federal University of ABC.
-  
-  Title of Work: <i>Two-Ts</i>: Reproduction of Facial Expressions in Robotic Head with 3D Technology.
-
-  Student: Tamires dos Santos;
-
-  Advisor: Wagner Tanaka Botelho.
+A robotic head has a key role in exchanging information to indicate its emotional state or communicate during an interaction. Therefore, the main target of this work is to present the open-source and low-cost robot head, known as <i>Two-Ts</i>, which is developed using 3D printing technology. Its main feature is to reproduce, even with mechanical limitations, the six basic and universal emotions created according to the Facial Action Coding System (FACS).
 </p>
   
-
 ## Files
 
 + Expressions_Two_Ts.ipynb -> Code implemented to validate the facial expressions of Tamires, <i>Two-Ts</i> Virtual and Real;
@@ -27,9 +20,7 @@
 
 + [CAD Cranio_Two-Ts.mix](https://encurtador.com.br/kuJN8) -> <i>Two-Ts</i> skull CAD-3D.
 
-
-
-## Videos
+## Simulation and Experimental Results
 
 + Basic Movements of Virtual <i>Two-Ts</i>: The video shows the basic movements performed by <i>Two-Ts</i> during the simulation.
 
