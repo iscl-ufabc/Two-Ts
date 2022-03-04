@@ -21,7 +21,7 @@ The ethics committee of the Federal University of ABC approved the development o
  
 [<img src="https://img.youtube.com/vi/5K1MpseIagA/0.jpg" width="350"/>](https://youtu.be/aRs2vpIhQgE)
 
-<p align="justify"><b>b) Emotions:</b> <i>Two-Ts</i> performs the emotions of happiness, fear, disgust, anger, surprise, and sadness.</p>
+<p align="justify"><b>b) Emotions:</b> Tamires and <i>Two-Ts</i> perform the emotions of happiness, fear, disgust, anger, surprise, and sadness.</p>
 
 + <b>Tamires:</b>
 
