@@ -2,7 +2,7 @@
 
 ## Description
 <p align="justify"> 
-A robotic head has a key role in exchanging information to indicate its emotional state or communicate during an interaction. Therefore, the main target of this work is to present the open-source and low-cost robot head, known as <i>Two-Ts</i>, which is developed using 3D printing technology and has eight Degrees of Freedom (DOF). Its name represents the union of the initials of the name and surname of its developers, being Tamires and Tanaka, respectively. In addition, its main feature is to reproduce, even with mechanical limitations, the six basic and universal emotions created according to the Facial Action Coding System (FACS), such as happiness, fear, disgust, anger, surprise, and sadness. </p>
+A robotic head has a key role in exchanging information to indicate its emotional state or communicate during an interaction. Therefore, the main target of this work is to present the open-source and low-cost robot head, known as <i>Two-Ts</i>, which is developed using 3D printing technology and has eight Degrees of Freedom (DOF). Its name represents the union of the initials of the name and surname of its developers, being <b>T</b>amires and <b>T</b>anaka, respectively. In addition, its main feature is to reproduce, even with mechanical limitations, the six basic and universal emotions created according to the Facial Action Coding System (FACS), such as happiness, fear, disgust, anger, surprise, and sadness. </p>
 
 <p align="justify">
 The ethics committee of the Federal University of ABC approved the development of the <i>Two-Ts</i> (Certificate of Presentation for Ethical Consideration – CPEC n: 29671020.1.0000.5594).
@@ -22,6 +22,10 @@ The ethics committee of the Federal University of ABC approved the development o
 [<img src="https://img.youtube.com/vi/5K1MpseIagA/0.jpg" width="350"/>](https://youtu.be/aRs2vpIhQgE)
 
 <p align="justify"><b>b) Emotions:</b> <i>Two-Ts</i> performs the emotions of happiness, fear, disgust, anger, surprise, and sadness.</p>
+
++ <b>Tamires:</b>
+
+[<img src="https://img.youtube.com/vi/pIZDx-OqKEg/0.jpg" width="350"/>](https://youtu.be/mSPnjagioiA)
 
 + <b>Virtual <i>Two-Ts</i>:</b> 
 
