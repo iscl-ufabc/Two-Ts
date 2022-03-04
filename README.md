@@ -15,11 +15,11 @@ The ethics committee of the Federal University of ABC approved the development o
 + <b>Virtual <i>Two-Ts</i>:</b> 
 
 <!--[![](https://img.youtube.com/vi/udqf8mTrStc/0.jpg)](https://youtu.be/udqf8mTrStc)-->
-[<img src="https://img.youtube.com/vi/udqf8mTrStc/0.jpg" width="350"/>](https://youtu.be/udqf8mTrStc)
+[<img src="https://img.youtube.com/vi/udqf8mTrStc/0.jpg" width="350"/>](https://youtu.be/sNjRufvggC0)
 
 + <b>Real <i>Two-Ts</i>:</b> 
  
-[<img src="https://img.youtube.com/vi/5K1MpseIagA/0.jpg" width="350"/>](https://youtu.be/apge2joZt6o)
+[<img src="https://img.youtube.com/vi/5K1MpseIagA/0.jpg" width="350"/>](https://youtu.be/aRs2vpIhQgE)
 
 <p align="justify"><b>b) Emotions:</b> <i>Two-Ts</i> performs the emotions of happiness, fear, disgust, anger, surprise, and sadness.</p>
 
