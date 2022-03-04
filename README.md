@@ -10,7 +10,7 @@ The ethics committee of the Federal University of ABC approved the development o
 
 ## Simulation and Experimental Results
 
-<p align="justify"><b>a) Basic Moviments:</b> Two-Ts’ eyes move left and right in the videos, and the eyebrows move up and down. Furthermore, the head movements are left, right, up, down, a small head tilts to left and right, and the partial and complete jaw opening.</p>
+<p align="justify"><b>a) Basic Moviments:</b> Two-Ts’ eyes move left and right in the videos, and the eyebrows move up and down. Furthermore, the head movements are left, right, up, down, a small tilt of the head to left and right, and the partial and complete jaw opening.</p>
 
 + <b>Virtual <i>Two-Ts</i>:</b> 
 
