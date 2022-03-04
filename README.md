@@ -15,25 +15,25 @@ The ethics committee of the Federal University of ABC approved the development o
 + <b>Virtual <i>Two-Ts</i>:</b> 
 
 <!--[![](https://img.youtube.com/vi/udqf8mTrStc/0.jpg)](https://youtu.be/udqf8mTrStc)-->
-[<img src="https://img.youtube.com/vi/udqf8mTrStc/0.jpg" width="350"/>](https://youtu.be/sNjRufvggC0)
+[<img src="https://img.youtube.com/vi/sNjRufvggC0/0.jpg" width="350"/>](https://youtu.be/sNjRufvggC0)
 
 + <b>Real <i>Two-Ts</i>:</b> 
  
-[<img src="https://img.youtube.com/vi/5K1MpseIagA/0.jpg" width="350"/>](https://youtu.be/aRs2vpIhQgE)
+[<img src="https://img.youtube.com/vi/aRs2vpIhQgE/0.jpg" width="350"/>](https://youtu.be/aRs2vpIhQgE)
 
 <p align="justify"><b>b) Emotions:</b> Tamires and <i>Two-Ts</i> perform the emotions of happiness, fear, disgust, anger, surprise, and sadness.</p>
 
 + <b>Tamires:</b>
 
-[<img src="https://i9.ytimg.com/vi/mSPnjagioiA/mq1.jpg?sqp=CIzChZEG&rs=AOn4CLDNyOGrA_pk2-QI9_sbS09Gb1f3gg" width="350"/>](https://youtu.be/mSPnjagioiA)
+[<img src="https://img.youtube.com/vi/mSPnjagioiA/0.jpg" width="350"/>](https://youtu.be/mSPnjagioiA)
 
 + <b>Virtual <i>Two-Ts</i>:</b> 
 
-[<img src="https://img.youtube.com/vi/pIZDx-OqKEg/0.jpg" width="350"/>](https://youtu.be/0B-G4a6CmGI)
+[<img src="https://img.youtube.com/vi/0B-G4a6CmGI/0.jpg" width="350"/>](https://youtu.be/0B-G4a6CmGI)
 
 + <b>Real <i>Two-Ts</i>:</b> 
 
-[<img src="https://img.youtube.com/vi/z0KJ2hzK7wY/0.jpg" width="350"/>](https://youtu.be/apge2joZt6o)
+[<img src="https://img.youtube.com/vi/apge2joZt6o/0.jpg" width="350"/>](https://youtu.be/apge2joZt6o)
 
 ## Files
 
