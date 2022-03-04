@@ -25,7 +25,7 @@ The ethics committee of the Federal University of ABC approved the development o
 
 + <b>Tamires:</b>
 
-[<img src="https://img.youtube.com/vi/pIZDx-OqKEg/0.jpg" width="350"/>](https://youtu.be/mSPnjagioiA)
+[<img src="https://i9.ytimg.com/vi/mSPnjagioiA/mq1.jpg?sqp=CIzChZEG&rs=AOn4CLDNyOGrA_pk2-QI9_sbS09Gb1f3gg" width="350"/>](https://youtu.be/mSPnjagioiA)
 
 + <b>Virtual <i>Two-Ts</i>:</b> 
 
