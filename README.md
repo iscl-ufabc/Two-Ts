@@ -53,5 +53,12 @@ The ethics committee of the Federal University of ABC approved the development o
 
 + [<b>Colab_Two_Ts.ipynb:</b>](https://encurtador.com.br/tGRY7) a system was implemented to identify the Action Units (AUs) and their intensity in each emotion and compare the results found on the face of Tamires with the Virtual and Real <i>Two-Ts</i>. 
 
+## Publication
++ T. dos Santos, W. T. Botelho, E. P. Pimentel and F. S. Yamamoto, "Two-Ts: Development of a Robotic Head to Reproduce Facial Emotions Using 3D Printing Technology". 17th International Conference on Control, Automation, Robotics and Vision (ICARCV), Singapore, 2022, pp. 943-948, doi: 10.1109/ICARCV57592.2022.10004240.
+
+[<img src="https://img.youtube.com/vi/zpkYlaIac_A/0.jpg" width="350"/>](https://youtu.be/zpkYlaIac_A)
+
+
+
 ## Acknowledgements
 <p align="justify"> This work was supported by a Technical Training Fellowship (TT-3/Process Number: 2019/08079-1) funded by the São Paulo Research Foundation (FAPESP)/PIPE Grant Program from June/2019 to May/2020 offered by the Startup NTU Software Technology (Process Number: 2018/04306-0). In addition, Tamires dos Santos received a master’s scholarship funded by Coordination for the Improvement of Higher Education Personnel (CAPES) from October/2020 to February/2021.</p>
