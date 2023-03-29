@@ -35,6 +35,18 @@ The ethics committee of the Federal University of ABC approved the development o
 
 [<img src="https://img.youtube.com/vi/apge2joZt6o/0.jpg" width="350"/>](https://youtu.be/apge2joZt6o)
 
+
+## Human-Robot Interaction
+
+<b>a) Basic Moviments and Vision Systems:</b>
+
+[<img src="https://img.youtube.com/vi/Jiy7Bs9LFpk/0.jpg" width="350"/>](https://www.youtube.com/watch?v=Jiy7Bs9LFpk)
+
+<b>b) Hearing and Speech Systems:</b>
+
+[<img src="https://img.youtube.com/vi/oBgN6BIDcLQ/0.jpg" width="350"/>](https://www.youtube.com/watch?v=oBgN6BIDcLQ)
+
+
 ## Files
 
 <b>a) CAD-3D:</b> 
